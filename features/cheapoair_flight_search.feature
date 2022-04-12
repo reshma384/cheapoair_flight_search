@@ -53,3 +53,5 @@ Feature: Cheapoair Flight search functionality
     When user search for the available flights for the futures dates
     Then verify user should see the available flights
     And flight search results are displayed with sort order of price
+
+    Scenario:
