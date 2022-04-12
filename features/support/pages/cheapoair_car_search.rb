@@ -1,0 +1,2 @@
+class CheapoairCarSearch
+end
